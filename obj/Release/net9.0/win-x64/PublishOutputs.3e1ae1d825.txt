@@ -1,0 +1,2 @@
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\bin\Release\net9.0\win-x64\publish\MeuProjeto.pdb
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\bin\Release\net9.0\win-x64\publish\MeuProjeto.exe

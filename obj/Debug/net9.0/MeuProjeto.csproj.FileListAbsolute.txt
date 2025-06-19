@@ -1,0 +1,14 @@
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\bin\Debug\net9.0\MeuProjeto.exe
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\bin\Debug\net9.0\MeuProjeto.dll
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\bin\Debug\net9.0\MeuProjeto.pdb
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\obj\Debug\net9.0\MeuProjeto.dll
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\obj\Debug\net9.0\MeuProjeto.pdb
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\marco\Desktop\CaseCS_e_NET\CaseCS\obj\Debug\net9.0\ref\MeuProjeto.dll
