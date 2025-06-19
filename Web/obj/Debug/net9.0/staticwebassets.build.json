@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "/aH0NSQSH+vNbAU1S0xc7ew4robt3e7dBLYnqn36Lzw=",
+  "Source": "Web",
+  "BasePath": "_content/Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Web\\wwwroot",
+      "Source": "Web",
+      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "Js/Main#[.{fingerprint=fx36moxve9}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "quku5t2pq3",
+      "Integrity": "Et4yzMV73Po7aQcGjljk5Zz8d3u8yEeLBFWY5Uz/zp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "Index#[.{fingerprint=kle46gg50p}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4e7w32iyru",
+      "Integrity": "bLgPLg/Mba04AKXwk9VIoB1veTz8f18kAuwDIz9mW5A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "CSS/styles#[.{fingerprint=5gf40p0wjo}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kjqqjwfgr1",
+      "Integrity": "IJSMrBxWy/vB+z/xssbjw/G9ERRnii1Q5ViBKXKD2hk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "CSS/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5gf40p0wjo",
+      "Integrity": "NSvIFOO8c3wcgibDPuD6ebCYEXZULsecJqbPpoQh7NQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "Index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kle46gg50p",
+      "Integrity": "GJcceP6ZgmuvTgPaGHFIDKAU6NfdMNsmHjtezv0vwcU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js",
+      "SourceId": "Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\",
+      "BasePath": "_content/Web",
+      "RelativePath": "Js/Main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fx36moxve9",
+      "Integrity": "Y18EmS051Wdu3UTay66eK0cFl0HoiL20OQImzJJja5k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Js\\Main.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CSS/styles.5gf40p0wjo.css",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004366812227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJSMrBxWy/vB+z/xssbjw/G9ERRnii1Q5ViBKXKD2hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:46:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NSvIFOO8c3wcgibDPuD6ebCYEXZULsecJqbPpoQh7NQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5gf40p0wjo"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NSvIFOO8c3wcgibDPuD6ebCYEXZULsecJqbPpoQh7NQ="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.5gf40p0wjo.css",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NSvIFOO8c3wcgibDPuD6ebCYEXZULsecJqbPpoQh7NQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:46:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5gf40p0wjo"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NSvIFOO8c3wcgibDPuD6ebCYEXZULsecJqbPpoQh7NQ="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.5gf40p0wjo.css.gz",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJSMrBxWy/vB+z/xssbjw/G9ERRnii1Q5ViBKXKD2hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:46:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5gf40p0wjo"
+        },
+        {
+          "Name": "label",
+          "Value": "CSS/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJSMrBxWy/vB+z/xssbjw/G9ERRnii1Q5ViBKXKD2hk="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.css",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004366812227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJSMrBxWy/vB+z/xssbjw/G9ERRnii1Q5ViBKXKD2hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:46:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"NSvIFOO8c3wcgibDPuD6ebCYEXZULsecJqbPpoQh7NQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NSvIFOO8c3wcgibDPuD6ebCYEXZULsecJqbPpoQh7NQ="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.css",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "392"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NSvIFOO8c3wcgibDPuD6ebCYEXZULsecJqbPpoQh7NQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:46:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NSvIFOO8c3wcgibDPuD6ebCYEXZULsecJqbPpoQh7NQ="
+        }
+      ]
+    },
+    {
+      "Route": "CSS/styles.css.gz",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IJSMrBxWy/vB+z/xssbjw/G9ERRnii1Q5ViBKXKD2hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:46:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IJSMrBxWy/vB+z/xssbjw/G9ERRnii1Q5ViBKXKD2hk="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bLgPLg/Mba04AKXwk9VIoB1veTz8f18kAuwDIz9mW5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 18:11:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GJcceP6ZgmuvTgPaGHFIDKAU6NfdMNsmHjtezv0vwcU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GJcceP6ZgmuvTgPaGHFIDKAU6NfdMNsmHjtezv0vwcU="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GJcceP6ZgmuvTgPaGHFIDKAU6NfdMNsmHjtezv0vwcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 18:11:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GJcceP6ZgmuvTgPaGHFIDKAU6NfdMNsmHjtezv0vwcU="
+        }
+      ]
+    },
+    {
+      "Route": "Index.html.gz",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bLgPLg/Mba04AKXwk9VIoB1veTz8f18kAuwDIz9mW5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 18:11:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bLgPLg/Mba04AKXwk9VIoB1veTz8f18kAuwDIz9mW5A="
+        }
+      ]
+    },
+    {
+      "Route": "Index.kle46gg50p.html",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002525252525"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bLgPLg/Mba04AKXwk9VIoB1veTz8f18kAuwDIz9mW5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 18:11:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GJcceP6ZgmuvTgPaGHFIDKAU6NfdMNsmHjtezv0vwcU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kle46gg50p"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GJcceP6ZgmuvTgPaGHFIDKAU6NfdMNsmHjtezv0vwcU="
+        }
+      ]
+    },
+    {
+      "Route": "Index.kle46gg50p.html",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GJcceP6ZgmuvTgPaGHFIDKAU6NfdMNsmHjtezv0vwcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 18:11:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kle46gg50p"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GJcceP6ZgmuvTgPaGHFIDKAU6NfdMNsmHjtezv0vwcU="
+        }
+      ]
+    },
+    {
+      "Route": "Index.kle46gg50p.html.gz",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "395"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bLgPLg/Mba04AKXwk9VIoB1veTz8f18kAuwDIz9mW5A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 18:11:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kle46gg50p"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bLgPLg/Mba04AKXwk9VIoB1veTz8f18kAuwDIz9mW5A="
+        }
+      ]
+    },
+    {
+      "Route": "Js/Main.fx36moxve9.js",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002159827214"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "462"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Et4yzMV73Po7aQcGjljk5Zz8d3u8yEeLBFWY5Uz/zp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y18EmS051Wdu3UTay66eK0cFl0HoiL20OQImzJJja5k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fx36moxve9"
+        },
+        {
+          "Name": "label",
+          "Value": "Js/Main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y18EmS051Wdu3UTay66eK0cFl0HoiL20OQImzJJja5k="
+        }
+      ]
+    },
+    {
+      "Route": "Js/Main.fx36moxve9.js",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y18EmS051Wdu3UTay66eK0cFl0HoiL20OQImzJJja5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fx36moxve9"
+        },
+        {
+          "Name": "label",
+          "Value": "Js/Main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y18EmS051Wdu3UTay66eK0cFl0HoiL20OQImzJJja5k="
+        }
+      ]
+    },
+    {
+      "Route": "Js/Main.fx36moxve9.js.gz",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Et4yzMV73Po7aQcGjljk5Zz8d3u8yEeLBFWY5Uz/zp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fx36moxve9"
+        },
+        {
+          "Name": "label",
+          "Value": "Js/Main.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Et4yzMV73Po7aQcGjljk5Zz8d3u8yEeLBFWY5Uz/zp4="
+        }
+      ]
+    },
+    {
+      "Route": "Js/Main.js",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002159827214"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "462"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Et4yzMV73Po7aQcGjljk5Zz8d3u8yEeLBFWY5Uz/zp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y18EmS051Wdu3UTay66eK0cFl0HoiL20OQImzJJja5k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y18EmS051Wdu3UTay66eK0cFl0HoiL20OQImzJJja5k="
+        }
+      ]
+    },
+    {
+      "Route": "Js/Main.js",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "963"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y18EmS051Wdu3UTay66eK0cFl0HoiL20OQImzJJja5k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y18EmS051Wdu3UTay66eK0cFl0HoiL20OQImzJJja5k="
+        }
+      ]
+    },
+    {
+      "Route": "Js/Main.js.gz",
+      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Et4yzMV73Po7aQcGjljk5Zz8d3u8yEeLBFWY5Uz/zp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Jun 2025 14:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Et4yzMV73Po7aQcGjljk5Zz8d3u8yEeLBFWY5Uz/zp4="
+        }
+      ]
+    }
+  ]
+}

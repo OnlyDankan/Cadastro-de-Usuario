@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css",
+      "PackagePath": "staticwebassets\\CSS\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js",
+      "PackagePath": "staticwebassets\\Js\\Main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Web.props",
+      "PackagePath": "build\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.props",
+      "PackagePath": "buildMultiTargeting\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Web.props",
+      "PackagePath": "buildTransitive\\Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
