@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/aH0NSQSH+vNbAU1S0xc7ew4robt3e7dBLYnqn36Lzw=",
+  "Hash": "tEGRR6P8TVSDEQODpw5cTe6YPSKCBox+m+E5TIloD1c=",
   "Source": "Web",
   "BasePath": "_content/Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web\\wwwroot",
       "Source": "Web",
-      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "Identity": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Web",
       "RelativePath": "Js/Main#[.{fingerprint=fx36moxve9}]?.js.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js",
+      "RelatedAsset": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Js\\Main.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "quku5t2pq3",
       "Integrity": "Et4yzMV73Po7aQcGjljk5Zz8d3u8yEeLBFWY5Uz/zp4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js"
+      "OriginalItemSpec": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Js\\Main.js"
     },
     {
-      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "Identity": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Web",
       "RelativePath": "Index#[.{fingerprint=kle46gg50p}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html",
+      "RelatedAsset": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "4e7w32iyru",
       "Integrity": "bLgPLg/Mba04AKXwk9VIoB1veTz8f18kAuwDIz9mW5A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html"
+      "OriginalItemSpec": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Index.html"
     },
     {
-      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "Identity": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Web",
       "RelativePath": "CSS/styles#[.{fingerprint=5gf40p0wjo}]?.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css",
+      "RelatedAsset": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\CSS\\styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "kjqqjwfgr1",
       "Integrity": "IJSMrBxWy/vB+z/xssbjw/G9ERRnii1Q5ViBKXKD2hk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css"
+      "OriginalItemSpec": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\CSS\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css",
+      "Identity": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\CSS\\styles.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "CSS/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\CSS\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html",
+      "Identity": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Index.html",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "Index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Index.html"
     },
     {
-      "Identity": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js",
+      "Identity": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Js\\Main.js",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "Js/Main#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "CSS/styles.5gf40p0wjo.css",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -209,7 +209,7 @@
     },
     {
       "Route": "CSS/styles.5gf40p0wjo.css",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\CSS\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -254,7 +254,7 @@
     },
     {
       "Route": "CSS/styles.5gf40p0wjo.css.gz",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -307,7 +307,7 @@
     },
     {
       "Route": "CSS/styles.css",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -362,7 +362,7 @@
     },
     {
       "Route": "CSS/styles.css",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\CSS\\styles.css",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\CSS\\styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -399,7 +399,7 @@
     },
     {
       "Route": "CSS/styles.css.gz",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\z64mx0um0u-5gf40p0wjo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -444,7 +444,7 @@
     },
     {
       "Route": "Index.html",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -499,7 +499,7 @@
     },
     {
       "Route": "Index.html",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -536,7 +536,7 @@
     },
     {
       "Route": "Index.html.gz",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -581,7 +581,7 @@
     },
     {
       "Route": "Index.kle46gg50p.html",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -644,7 +644,7 @@
     },
     {
       "Route": "Index.kle46gg50p.html",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Index.html",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -689,7 +689,7 @@
     },
     {
       "Route": "Index.kle46gg50p.html.gz",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\lc4xnb9y0b-kle46gg50p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -742,7 +742,7 @@
     },
     {
       "Route": "Js/Main.fx36moxve9.js",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -805,7 +805,7 @@
     },
     {
       "Route": "Js/Main.fx36moxve9.js",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Js\\Main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -850,7 +850,7 @@
     },
     {
       "Route": "Js/Main.fx36moxve9.js.gz",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -903,7 +903,7 @@
     },
     {
       "Route": "Js/Main.js",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -958,7 +958,7 @@
     },
     {
       "Route": "Js/Main.js",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\wwwroot\\Js\\Main.js",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\wwwroot\\Js\\Main.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -995,7 +995,7 @@
     },
     {
       "Route": "Js/Main.js.gz",
-      "AssetFile": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
+      "AssetFile": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\Debug\\net9.0\\compressed\\6664duqmff-fx36moxve9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

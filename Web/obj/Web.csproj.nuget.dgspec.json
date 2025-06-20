@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\Web.csproj": {}
+    "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\Web.csproj": {
+    "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\Web.csproj",
+        "projectPath": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\Web\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\CaseCS\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\CaseCS\\MeuProjeto.csproj": {}
+    "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\caseCS\\MeuProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\CaseCS\\MeuProjeto.csproj": {
+    "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\caseCS\\MeuProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\CaseCS\\MeuProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\caseCS\\MeuProjeto.csproj",
         "projectName": "MeuProjeto",
-        "projectPath": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\CaseCS\\MeuProjeto.csproj",
+        "projectPath": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\caseCS\\MeuProjeto.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\CaseCS_e_NET\\CaseCS\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Documents\\CaseCS_e_NET\\caseCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
