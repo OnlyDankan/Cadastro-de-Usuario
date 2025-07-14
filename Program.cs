@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace CadastroUsuarios
@@ -39,6 +39,7 @@ namespace CadastroUsuarios
                 Console.WriteLine("2. Listar Usuários");
                 Console.WriteLine("3. Buscar Usuário");
                 Console.WriteLine("4. Editar Usuário");
+                Console.WriteLine("5. Remover Usuário");
                 Console.WriteLine("0. Sair");
                 Console.Write("Escolha uma opção: ");
 
@@ -53,6 +54,7 @@ namespace CadastroUsuarios
                 else if (opcao == 2) ListarUsuarios(); //Aqui vai listar todos os usuários
                 else if (opcao == 3) BuscarUsuario(); //vai fazer uma busca pelo usuário
                 else if (opcao == 4) EditarUsuario(); //Vai editar o usuário já listado
+                else if (opcao == 5) RemoverUsuario(); //Vai remover o usuário
                 else if (opcao != 0) Console.WriteLine("Opção Invalida!"); //Caso o usuário escolha uma opção inválida
 
                 Console.WriteLine(); //Aqui deixei uma linha em branco pra separar as opções e ficar com uma melhor visualização
@@ -141,5 +143,25 @@ namespace CadastroUsuarios
                 Console.WriteLine("Usuário não encontrado."); //Mensagem caso o usuário não seja encontrado
             }
         }
+
+        static void RemoverUsuario()
+        {
+            Console.Write("Digite seu nome do usuário que deseja remover: ");
+            string nomeRemover = (Console.ReadLine() ?? "").Trim(); //Nome do usuário a ser removido
+
+            var usuario = usuarios.Find(u => u.Nome.Equals(nomeRemover, StringComparison.OrdinalIgnoreCase));
+
+            if (usuario != null)
+            {
+                usuarios.Remove(usuario);
+                Console.WriteLine("Usuário removido com sucesso!");
+            }
+            else
+            {
+                Console.WriteLine("Usuário não encontrado.");
+            }
+        }
+
+
     }
 }
